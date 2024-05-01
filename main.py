@@ -67,7 +67,11 @@ if __name__ == "__main__":
     main()
 
 
-
+def choose_option(userInput):
+    if userInput == 1 or userInput == "help" or userInput ==  "Display help":
+        pass
+    elif userInput == 2 or userInput == "Exit" or userInput == "Exit the application":
+        pas
 
 
 
