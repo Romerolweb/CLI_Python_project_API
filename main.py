@@ -1,8 +1,7 @@
 #Task 1
 #create menu
 
-#write display 2 options
-# pass
+
 #write function for option show menu
 
 
@@ -35,10 +34,24 @@
 #Task 2
 #function that: ...
 
+'''
+Task 2 User Input
+Next, write a main() function that displays the help menu and then 
+repeatedly prompts the user to input their command.
+• The user should be prompted for a command with the 
+following: “wildlife> ”
+o If the user inputs help, the function should call 
+display_menu() 
+o If the user enters exit, then the system should exit.
+
+'''
+def main():   
+    userInput = input("Enter the option you want to choose: ")
+    print(f"The option that you have chosen is, {userInput}!")
 
 
-
-
+#write display 2 options
+# pass
 
 
 
