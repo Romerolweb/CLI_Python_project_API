@@ -46,7 +46,7 @@ def display_menu():
 
 def choose_option(userInput):
     if userInput == 1 or userInput == "help" or userInput ==  "Display help":
-        display_menu()
+        main()
     elif userInput == 2 or userInput == "Exit" or userInput == "Exit the application":
         exit()
 
