@@ -8,12 +8,9 @@ def display_menu():
     print("Help")
     print("====")
     print("The following commands are recognized:")
-    print("1. Display help")
+    print("1. Display help",)
     print("2. Exit the application")
 
-# Debugging: Call the function to verify its behavior
-display_menu()
-#write function for option show menu
 
 
 #write function for option exit applicatoin
@@ -57,12 +54,17 @@ o If the user enters exit, then the system should exit.
 
 '''
 def main():   
+    display_menu()
+
     userInput = input("Enter the option you want to choose: ")
     print(f"The option that you have chosen is, {userInput}!")
-
+    
 
 #write display 2 options
 # pass
+
+if __name__ == "__main__":
+    main()
 
 
 
