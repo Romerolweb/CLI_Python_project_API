@@ -1,7 +1,18 @@
 #Task 1
 #create menu
 
+def display_menu():
+    """
+    Displays a menu with numbered options.
+    """
+    print("Help")
+    print("====")
+    print("The following commands are recognized:")
+    print("1. Display help")
+    print("2. Exit the application")
 
+# Debugging: Call the function to verify its behavior
+display_menu()
 #write function for option show menu
 
 
