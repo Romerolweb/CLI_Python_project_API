@@ -1,9 +1,102 @@
+#Task 1
 #create menu
 
-#write display options
+#write display 2 options
+# pass
+#write function for option show menu
 
-#write function for option 1
+
+#write function for option exit applicatoin
 
 
-#write function for option 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Task 2
+#function that:...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Task 3
+#function that:...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Task 4
+#function that:...
 
